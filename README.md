@@ -19,13 +19,19 @@ Install required Python packages:
 ```bash
 pip install -r requirements.txt
 
+---
+
 ## Dependencies used:
 pytesseract – Python wrapper for Tesseract OCR
 Pillow – For image handling
 OpenCV – For optional image preprocessing
 
+---
+
 ## ⚙️ Tesseract Installation
    You must install Tesseract OCR Engine separately (not included in requirements).
+
+---
 
 ##🔮 Future Improvements
    Add support for Hindi, Tamil, and other regional languages
