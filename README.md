@@ -11,17 +11,16 @@ It is designed to recognize both **Arabic** and **English** handwritten notes, m
 - ⚡ Lightweight & simple to use with Python  
 - 📂 Outputs recognized text into console or text files  
 
----
+--- 
 
 ## 📦 Requirements
 Make sure you have **Python 3.8+** installed.  
-Install required Python packages:
-```bash
+Install required Python packages: 
 pip install -r requirements.txt
 
 ---
 
-## Dependencies used:
+## Dependencies used
 pytesseract – Python wrapper for Tesseract OCR
 Pillow – For image handling
 OpenCV – For optional image preprocessing
@@ -33,7 +32,7 @@ OpenCV – For optional image preprocessing
 
 ---
 
-##🔮 Future Improvements
+## 🔮 Future Improvements
    Add support for Hindi, Tamil, and other regional languages
    Improve preprocessing for noisy/blurred images
    Build a simple GUI for easy image upload
